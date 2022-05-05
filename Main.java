@@ -4,11 +4,7 @@ import java.util.Scanner;
 
 /*
 * Joel White
-* W0704929
 * 3/23/2022
-* All of this code is mine, though the add method is similar to the one provided in the
-assignment details.
-* https://www.tutorialspoint.com/online_java_formatter.htm was used for some formatting.
 */
 class Main {
 	static class LinkedList {
